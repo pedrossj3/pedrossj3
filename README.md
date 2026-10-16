@@ -2,7 +2,7 @@
 
 🎓 Estudante de **Engenharia de Software** na UNICESUMAR, com previsão de conclusão em dezembro de 2026.
 
-💻 Atualmente estou desenvolvendo meus conhecimentos em **lógica de programação e desenvolvimento web**, estudando JavaScript, HTML5 e CSS3.
+💻 Atualmente estou desenvolvendo meus conhecimentos em **lógica de programação e desenvolvimento web**, estudando JavaScript, HTML5, CSS3 e React.
 
 🎯 Busco minha primeira oportunidade profissional na área de **Desenvolvimento de Software**, com interesse em Desenvolvimento Full Stack.
 
@@ -13,6 +13,7 @@
 * JavaScript
 * HTML5
 * CSS3
+* React
 
 ### Conhecimentos
 
@@ -51,6 +52,7 @@ Atuação com suporte técnico, manutenção de computadores, instalação e con
 * JavaScript
 * HTML5
 * CSS3
+* React
 * Desenvolvimento Web
 
 ## 📫 Contato
